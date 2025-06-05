@@ -1,0 +1,15 @@
+function x() {
+    }
+let p =x();
+function y() {
+  p:
+  }
+function sum(a,b) {
+     return a+b;
+  }
+sum(2,3)
+5
+function sum(a,b) {
+  let ret =a + b;
+ return ret;
+  }
