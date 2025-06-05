@@ -1,0 +1,18 @@
+functionsaygreeting(name) {
+   return 'hello ${name}';
+   }
+   saygreeting('tapas");
+   'hello tapes'
+   let greeting = "hello";
+   function saygreeting(name) {
+     return ${greeting} ${name}';
+     }
+     saygreeting('ta[as');
+     'hello tapes'
+     say greeting('tapas');
+     'hello tapas'
+     greeting = 'hola';
+     'hola'
+     say greeting('tapas');
+     'hola tapas'
+     
