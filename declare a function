@@ -1,0 +1,21 @@
+function printme() {
+   console.log('printing...');
+}
+printme
+f printme() {
+   console.log('printing...');
+}
+printme();
+printing...
+function printthis(param) {
+   console.log(param);
+}
+printthis('tapas');
+tapasconst count =100;
+    console.log('print');
+}
+printme again()
+const printmeagainwithparam = function(a,b);
+}
+printmeagaininwithparam(10,20);
+10 20
