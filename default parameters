@@ -1,0 +1,15 @@
+function calc(a,b) {
+  return (2 * (a + b));
+}
+calc(2, 3)
+  10
+  calc(3, 3)
+  12
+  calc(3)
+  NaN
+  Function calc(a, b=0) {
+    return (2 * (a+b));
+}
+calc(3)
+  6
+  
