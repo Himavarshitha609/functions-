@@ -1,0 +1,12 @@
+function x() {
+ }
+x();
+function ();
+}
+(function () {
+})
+f () {
+(function () {
+   console.log('iife');
+}) ()
+iife
