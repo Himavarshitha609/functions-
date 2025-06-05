@@ -1,0 +1,27 @@
+//1. it takes one or more function as argument
+// 2. it may return a function
+function getcapture(camera) {
+    camera() ;
+}
+getcapture(function() {
+    console.log('conon');
+})
+canon
+function returnfn() {
+     return function() {
+        console.log('returning');
+     }
+}
+const fn = returnf
+const fn = returnfn();
+fn
+  f () {
+       console.log('returning');
+  }
+fn()
+retutning
+[1,2,3].filter(function(elem){
+  elem
+})
+          
+          
