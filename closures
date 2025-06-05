@@ -1,0 +1,13 @@
+function outer(X) {
+  function inner(Y) {
+    return x + y;
+}
+return inner;
+}
+const outerreturn = outer(10);
+outerreturn
+f inner(y) {
+   return x + y;
+   }
+outerreturn(2)
+12
